@@ -1,4 +1,4 @@
-# This is the code used for a publication on the TMDD+L model that includes drug, target and endogenous ligand
+# This is the code used for [the Journal of PKPD publication](https://doi.org/10.1007/s10928-020-09734-9) on the TMDD+L model that includes drug, target and endogenous ligand
 This work was started as part of the 2018 Novartis-Academia Quantitative Hackathon
 
 ## Folder organization
